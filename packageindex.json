@@ -1,0 +1,8 @@
+{
+  "Name": "AvalonStudio.Toolchains.BitThunder",
+  "Description": "BitThunder Toolchain",
+  "RepoUrl": "https://github.com/VitalElement/AvalonStudio.Toolchains.BitThunder.git",
+  "Tags": [
+    "Win32-Slow-v0.6.2"
+  ]
+}
